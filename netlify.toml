@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# The site is a single self-contained page; serve it at the root URL.
+[[redirects]]
+  from = "/"
+  to = "/monsoon-works.html"
+  status = 200
