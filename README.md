@@ -1,7 +1,5 @@
 # Monsoon Works
 
----
-
 A looping pixel-art diorama of a Tamil Nadu village rain factory, made with Three.js r160 and a hand-written palette-snap post pass.
 A copper kettle boils the sea, a bell tower hangs the steam as a cloud,a wringer squeezes it into a jug, and a scooter courier carries the
 jug to a dry paddy. Then the works cat sits on the safety lever and everything goes wrong, on schedule.
