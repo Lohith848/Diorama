@@ -6,7 +6,7 @@ jug to a dry paddy. Then the works cat sits on the safety lever and everything g
 
 - 56 s seamless loop, locked camera (azimuth 45, elevation 33), 64 palette colours, no textures, no imported assets
 - 4 systems (Sea Kettle, Cloud Bell, Wringer, Scooter Dispatch), 4 people and one cat, 1432 meshes
-- Every frame is a pure function of the time `t`, so any moment can be reproduced exactly
+- Every frame is a pure function of the time `t`, so any moment can be reproduced exactly.
 
 ## Run it
 
